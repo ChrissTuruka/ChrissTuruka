@@ -1,19 +1,15 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Chriss
 
-[![GitHub followers](https://img.shields.io/github/followers/[your-username]?style=social)](https://github.com/[your-username])
-[![Twitter Follow](https://img.shields.io/twitter/follow/[your-twitter]?style=social)](https://twitter.com/[your-twitter])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/[your-linkedin])
+[![GitHub followers](https://img.shields.io/github/followers/ChrissTuruka?style=social)](https://github.com/ChrissTuruka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/christopher-turuka-2b3220232)
 
 ## 🚀 About Me
 
-I'm a [your role] based in [your location]. Passionate about [your interests].
+I'm a Prgorammer based in Dar es Salaam. Passionate about Coding, AI, Game Dev & Novels.
 
-- 🔭 I'm currently working on: [project name]
-- 🌱 I'm currently learning: [technologies]
-- 👯 I'm looking to collaborate on: [projects]
-- 💬 Ask me about: [topics]
-- 📫 How to reach me: [email]
-- ⚡ Fun fact: [something interesting]
+- 🔭 I'm currently working on: Port Automation System
+- 🌱 I'm currently learning: PHP & Laravel
+- 📫 How to reach me: chrissjustice07@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -36,45 +32,28 @@ I'm a [your role] based in [your location]. Passionate about [your interests].
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrissTuruka&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrissTuruka&layout=compact&theme=radical)
 
 ## 🏆 Featured Projects
 
-### [Project Name 1](link-to-repo)
-Brief description of what this project does and why it's cool.
+### [LittleNote](https://github.com/ChrissTuruka/LittleNote)
+A personal notes taking web app build with C#'s ASP.NET Core.
 
-### [Project Name 2](link-to-repo)
-Brief description of what this project does and why it's cool.
-
-## 📝 Latest Blog Posts (if you have a blog)
-
-<!-- BLOG-POST-LIST:START -->
-- [Title of blog post 1](link)
-- [Title of blog post 2](link)
-- [Title of blog post 3](link)
-<!-- BLOG-POST-LIST:END -->
+### [Angular Task App](https://github.com/ChrissTuruka/task_app3)
+An Angular web app for managing and assigning tasks for personal and organizational use.
 
 ## 📈 Contribution Graph
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=dark)](https://github.com/[your-username])
-
-## 🎯 2026 Goals
-
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
-
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChrissTuruka&theme=dark)](https://github.com/ChrissTuruka)
 
 ### 🔗 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-username])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-twitter])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChrissTuruka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-turuka-2b3220232)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrissjustice07.gmail.com)
 
 ---
 
-⭐️ From [Your Name](https://github.com/[your-username])
+⭐️ From [Your Name](https://github.com/ChrissTuruka)
