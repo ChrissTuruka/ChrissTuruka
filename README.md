@@ -32,7 +32,7 @@ I'm a Prgorammer based in Dar es Salaam. Passionate about Coding, AI, Game Dev &
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrissTuruka&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrissTuruka&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrissTuruka&layout=compact&theme=radical)
 
@@ -56,4 +56,4 @@ An Angular web app for managing and assigning tasks for personal and organizatio
 
 ---
 
-⭐️ From [Your Name](https://github.com/ChrissTuruka)
+⭐️ From [Christopher Turuka](https://github.com/ChrissTuruka)
