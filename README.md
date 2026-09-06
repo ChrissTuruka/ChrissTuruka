@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Chris
 
-<!--
-**ChrissTuruka/ChrissTuruka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student • Software Developer • Builder
 
-Here are some ideas to get you started:
+I’m a Computer Science student interested in building practical
+software, web applications, and systems that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm working on:
+- Web development projects
+- Embedded and IoT systems
+- My university Port Automation System
+- Building a stronger portfolio of real-world projects
+
+Tech I work with:
+JavaScript • TypeScript • React • Next.js • Node.js • Express
+HTML • CSS • Tailwind CSS • C/C++ • Arduino
+
+Projects
+...
