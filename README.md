@@ -30,12 +30,6 @@ I'm a Prgorammer based in Dar es Salaam. Passionate about Coding, AI, Game Dev &
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrissTuruka&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrissTuruka&layout=compact&theme=radical)
-
 ## 🏆 Featured Projects
 
 ### [LittleNote](https://github.com/ChrissTuruka/LittleNote)
